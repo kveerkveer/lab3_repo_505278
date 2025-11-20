@@ -1,0 +1,18 @@
+*   7493104 Успешно замердженая ветка 'feature2'
+|\  
+| * e207a4e feature2 change
+* |   592c598 Успешно замердженая ветка 'feature1'
+|\ \  
+| * | 2e19c2f feature1 change
+| |/  
+* | a947540 Добавлены не засыпашки в secrets.txt
+* | 84d3a85 Добавлены засыпашки в secrets.txt
+|/  
+* 11faa82 add secrets.txt 5
+* 6ee8938 add secrets.txt 4
+* 12498e4 add secrets.txt 3
+| * 84d42df Добавлены засыпашки в старом коммите
+|/  
+* 5a37e7c add secrets.txt 2
+* a7587f9 add secrets.txt 1
+* 10fad8e init
